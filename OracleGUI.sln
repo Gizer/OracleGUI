@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleGUI", "OracleGUI\OracleGUI.csproj", "{DF8BE33D-8FC0-4C6A-9301-85233C448D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8BE33D-8FC0-4C6A-9301-85233C448D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8BE33D-8FC0-4C6A-9301-85233C448D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8BE33D-8FC0-4C6A-9301-85233C448D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8BE33D-8FC0-4C6A-9301-85233C448D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3E790A-1C19-40FF-B15F-8ED782D637C4}
+	EndGlobalSection
+EndGlobal
