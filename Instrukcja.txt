@@ -1,0 +1,10 @@
+Mo¿liwe jest logowanie do trzech typów kont
+-Pasa¿er:
+	Login: user
+	Has³o: abc
+-Pracownik:
+	Login: worker
+	Has³o: abc
+-Manager:
+	Login: manager
+	Has³o: abc
